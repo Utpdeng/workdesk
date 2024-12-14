@@ -1,0 +1,63 @@
+24-12-14.17:46:40.838 [main            ] INFO  IEmployeeDAOTest       - Starting IEmployeeDAOTest using Java 1.8.0_321 on LAPTOP-MV2KUHP1 with PID 57116 (started by Lenovo in F:\!\framework\workdesk\guide\dil-mybatis)
+24-12-14.17:46:40.838 [main            ] INFO  IEmployeeDAOTest       - The following 1 profile is active: "dev"
+24-12-14.17:46:41.590 [main            ] INFO  IEmployeeDAOTest       - Started IEmployeeDAOTest in 1.108 seconds (JVM running for 1.805)
+24-12-14.17:46:41.738 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-12-14.17:46:43.129 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-12-14.17:46:43.162 [main            ] INFO  IEmployeeDAOTest       - EmployeePO(id=null, employeeNumber=10000002, employeeName=sXvfDpsWnJdLsCVk64tJgw==, employeeLevel=T2, employeeTitle=见习工程师, createTime=null, updateTime=null)
+24-12-14.17:46:43.169 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-12-14.17:46:43.171 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-12-14.17:50:03.368 [main            ] INFO  IEmployeeDAOTest       - Starting IEmployeeDAOTest using Java 1.8.0_321 on LAPTOP-MV2KUHP1 with PID 76960 (started by Lenovo in F:\!\framework\workdesk\guide\dil-mybatis)
+24-12-14.17:50:03.369 [main            ] INFO  IEmployeeDAOTest       - The following 1 profile is active: "dev"
+24-12-14.17:50:04.119 [main            ] INFO  IEmployeeDAOTest       - Started IEmployeeDAOTest in 1.102 seconds (JVM running for 1.795)
+24-12-14.17:50:04.264 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-12-14.17:50:05.685 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-12-14.17:50:05.843 [main            ] INFO  IEmployeeDAOTest       - 测试结果：{"employeeLevel":"T2","employeeName":"sXvfDpsWnJdLsCVk64tJgw==","employeeNumber":"10000002","employeeTitle":"见习工程师"}
+24-12-14.17:50:05.850 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-12-14.17:50:05.861 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-12-14.17:54:24.224 [main            ] INFO  IEmployeeDAOTest       - Starting IEmployeeDAOTest using Java 1.8.0_321 on LAPTOP-MV2KUHP1 with PID 75304 (started by Lenovo in F:\!\framework\workdesk\guide\dil-mybatis)
+24-12-14.17:54:24.225 [main            ] INFO  IEmployeeDAOTest       - The following 1 profile is active: "dev"
+24-12-14.17:54:24.971 [main            ] INFO  IEmployeeDAOTest       - Started IEmployeeDAOTest in 1.098 seconds (JVM running for 1.803)
+24-12-14.17:54:25.118 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-12-14.17:54:26.528 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-12-14.17:54:26.681 [main            ] INFO  IEmployeeDAOTest       - 测试结果：{"employeeLevel":"T2","employeeName":"sXvfDpsWnJdLsCVk64tJgw==","employeeNumber":"10000002","employeeTitle":"见习工程师"}
+24-12-14.17:54:26.689 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-12-14.17:54:26.696 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-12-14.17:54:59.571 [main            ] INFO  IEmployeeDAOTest       - Starting IEmployeeDAOTest using Java 1.8.0_321 on LAPTOP-MV2KUHP1 with PID 71436 (started by Lenovo in F:\!\framework\workdesk\guide\dil-mybatis)
+24-12-14.17:54:59.572 [main            ] INFO  IEmployeeDAOTest       - The following 1 profile is active: "dev"
+24-12-14.17:55:00.311 [main            ] INFO  IEmployeeDAOTest       - Started IEmployeeDAOTest in 1.082 seconds (JVM running for 1.79)
+24-12-14.17:55:00.453 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-12-14.17:55:01.824 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-12-14.17:55:01.862 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-12-14.17:55:01.863 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-12-14.17:55:10.572 [main            ] INFO  IEmployeeDAOTest       - Starting IEmployeeDAOTest using Java 1.8.0_321 on LAPTOP-MV2KUHP1 with PID 75204 (started by Lenovo in F:\!\framework\workdesk\guide\dil-mybatis)
+24-12-14.17:55:10.573 [main            ] INFO  IEmployeeDAOTest       - The following 1 profile is active: "dev"
+24-12-14.17:55:11.341 [main            ] INFO  IEmployeeDAOTest       - Started IEmployeeDAOTest in 1.132 seconds (JVM running for 1.824)
+24-12-14.17:55:11.490 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-12-14.17:55:12.901 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-12-14.17:55:13.065 [main            ] INFO  IEmployeeDAOTest       - 测试结果：{"employeeLevel":"T2","employeeName":"e-002","employeeNumber":"10000003","employeeTitle":"见习工程师"}
+24-12-14.17:55:13.074 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-12-14.17:55:13.079 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-12-14.18:04:34.189 [main            ] INFO  IEmployeeRepositoryTest - Starting IEmployeeRepositoryTest using Java 1.8.0_321 on LAPTOP-MV2KUHP1 with PID 60256 (started by Lenovo in F:\!\framework\workdesk\guide\dil-mybatis)
+24-12-14.18:04:34.190 [main            ] INFO  IEmployeeRepositoryTest - The following 1 profile is active: "dev"
+24-12-14.18:04:34.976 [main            ] INFO  IEmployeeRepositoryTest - Started IEmployeeRepositoryTest in 1.135 seconds (JVM running for 1.83)
+24-12-14.18:04:35.132 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-12-14.18:04:36.545 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-12-14.18:04:36.706 [main            ] INFO  IEmployeeRepositoryTest - 测试结果：{"employeeLevel":"T-3","employeeName":"sXvfDpsWnJdLsCVk64tJgw==","employeeNumber":"10000001","employeeTitle":"中级工程师","salaryBaseAmount":5300.00,"salaryMeritAmount":5300.00,"salaryTotalAmount":5300.00}
+24-12-14.18:04:36.713 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-12-14.18:04:36.724 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-12-14.21:11:32.501 [main            ] INFO  IEmployeeDAOTest       - Starting IEmployeeDAOTest using Java 1.8.0_321 on LAPTOP-MV2KUHP1 with PID 77724 (started by Lenovo in F:\!\framework\workdesk\guide\dil-mybatis)
+24-12-14.21:11:32.510 [main            ] INFO  IEmployeeDAOTest       - The following 1 profile is active: "dev"
+24-12-14.21:11:33.335 [main            ] INFO  IEmployeeDAOTest       - Started IEmployeeDAOTest in 1.201 seconds (JVM running for 2.007)
+24-12-14.21:11:33.520 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-12-14.21:11:34.973 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-12-14.21:11:35.143 [main            ] INFO  IEmployeeDAOTest       - 测试结果：id: 41, {"employeeLevel":"T2","employeeName":"e-004","employeeNumber":"10000004","employeeTitle":"见习工程师","id":41}
+24-12-14.21:11:35.152 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-12-14.21:11:35.155 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
+24-12-14.21:24:50.010 [main            ] INFO  IEmployeeDAOTest       - Starting IEmployeeDAOTest using Java 1.8.0_321 on LAPTOP-MV2KUHP1 with PID 47984 (started by Lenovo in F:\!\framework\workdesk\guide\dil-mybatis)
+24-12-14.21:24:50.011 [main            ] INFO  IEmployeeDAOTest       - The following 1 profile is active: "dev"
+24-12-14.21:24:50.758 [main            ] INFO  IEmployeeDAOTest       - Started IEmployeeDAOTest in 1.11 seconds (JVM running for 1.806)
+24-12-14.21:24:50.939 [main            ] INFO  HikariDataSource       - HikariPool-1 - Starting...
+24-12-14.21:24:52.297 [main            ] INFO  HikariDataSource       - HikariPool-1 - Start completed.
+24-12-14.21:24:52.453 [main            ] INFO  IEmployeeDAOTest       - 测试结果：[{"employeeLevel":"T-3","employeeName":"sXvfDpsWnJdLsCVk64tJgw==","employeeNumber":"10000001","employeeTitle":"中级工程师"},{"employeeLevel":"T2","employeeName":"e-002","employeeNumber":"10000003","employeeTitle":"见习工程师"}]
+24-12-14.21:24:52.461 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown initiated...
+24-12-14.21:24:52.475 [SpringApplicationShutdownHook] INFO  HikariDataSource       - HikariPool-1 - Shutdown completed.
