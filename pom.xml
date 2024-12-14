@@ -20,6 +20,7 @@
     <module>dil-zookeeper</module>
     <module>dil-rabbitmq</module>
     <module>dil-guava</module>
+    <module>dil-quartz</module>
   </modules>
 
   <properties>
