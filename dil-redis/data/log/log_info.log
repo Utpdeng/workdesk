@@ -1,0 +1,21 @@
+24-12-17.09:32:16.968 [main            ] INFO  AppTest                - Starting AppTest using Java 1.8.0_321 on LAPTOP-MV2KUHP1 with PID 81128 (started by Lenovo in F:\!\framework\workdesk\guide\dil-redis)
+24-12-17.09:32:16.969 [main            ] INFO  AppTest                - The following 1 profile is active: "dev"
+24-12-17.09:32:17.236 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-12-17.09:32:17.239 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-12-17.09:32:17.256 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+24-12-17.09:32:17.881 [main            ] INFO  AppTest                - Started AppTest in 1.347 seconds (JVM running for 2.111)
+24-12-17.09:32:19.399 [main            ] INFO  AppTest                - 测试结果：zhangsan
+24-12-17.09:59:08.142 [main            ] INFO  AppTest                - Starting AppTest using Java 1.8.0_321 on LAPTOP-MV2KUHP1 with PID 50900 (started by Lenovo in F:\!\framework\workdesk\guide\dil-redis)
+24-12-17.09:59:08.143 [main            ] INFO  AppTest                - The following 1 profile is active: "dev"
+24-12-17.09:59:08.392 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-12-17.09:59:08.394 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-12-17.09:59:08.408 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+24-12-17.09:59:09.115 [main            ] INFO  AppTest                - Started AppTest in 1.338 seconds (JVM running for 2.054)
+24-12-17.09:59:10.635 [main            ] INFO  AppTest                - 测试结果：lisi
+24-12-17.10:06:58.363 [main            ] INFO  AppTest                - Starting AppTest using Java 1.8.0_321 on LAPTOP-MV2KUHP1 with PID 82728 (started by Lenovo in F:\!\framework\workdesk\guide\dil-redis)
+24-12-17.10:06:58.364 [main            ] INFO  AppTest                - The following 1 profile is active: "dev"
+24-12-17.10:06:58.618 [main            ] INFO  RepositoryConfigurationDelegate - Multiple Spring Data modules found, entering strict repository configuration mode
+24-12-17.10:06:58.620 [main            ] INFO  RepositoryConfigurationDelegate - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+24-12-17.10:06:58.635 [main            ] INFO  RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+24-12-17.10:06:59.327 [main            ] INFO  AppTest                - Started AppTest in 1.317 seconds (JVM running for 2.05)
+24-12-17.10:07:00.827 [main            ] INFO  AppTest                - 测试结果：zhangsan
