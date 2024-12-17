@@ -17,6 +17,8 @@
     <file url="file://$PROJECT_DIR$/dil-rabbitmq/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-redis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dil-redisson/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dil-redisson/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-rocketmq/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-rocketmq/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-sharding-jdbc/src/main/java" charset="UTF-8" />
