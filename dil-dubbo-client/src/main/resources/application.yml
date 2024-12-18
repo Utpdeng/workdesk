@@ -1,0 +1,13 @@
+server:
+  port: 8091
+
+dubbo:
+  application:
+    name: dubbo-client
+    version: 1.0.0
+  registry:
+#    address: zookeeper://192.168.228.129:2181
+    address: N/A
+  protocol:
+    name: dubbo
+    port: 20881
