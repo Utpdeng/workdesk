@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: dil-rabbitmq
+  profiles:
+    active: dev
