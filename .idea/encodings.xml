@@ -3,12 +3,18 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/dil-canal/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-canal/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dil-dubbo-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dil-dubbo-client/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-dubbo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-dubbo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dil-glm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dil-glm/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-guava/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-guava/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-kafka/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-kafka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dil-llm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dil-llm/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-mybatis/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-mybatis/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/dil-quartz/src/main/java" charset="UTF-8" />

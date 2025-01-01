@@ -14,6 +14,7 @@
         <module>dil-rocketmq</module>
         <module>dil-redis</module>
         <module>dil-dubbo</module>
+        <module>dil-dubbo-client</module>
         <module>dil-kafka</module>
         <module>dil-canal</module>
         <module>dil-sharding-jdbc</module>
@@ -22,6 +23,8 @@
         <module>dil-guava</module>
         <module>dil-quartz</module>
         <module>dil-redisson</module>
+        <module>dil-glm</module>
+        <module>dil-llm</module>
     </modules>
 
     <properties>
@@ -81,6 +84,34 @@
                 <groupId>com.alibaba</groupId>
                 <artifactId>fastjson</artifactId>
                 <version>2.0.28</version>
+            </dependency>
+            <!-- RocketMQ -->
+            <dependency>
+                <groupId>org.apache.rocketmq</groupId>
+                <artifactId>rocketmq-client-java</artifactId>
+                <version>5.0.4</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.rocketmq</groupId>
+                <artifactId>rocketmq-spring-boot-starter</artifactId>
+                <version>2.2.0</version>
+            </dependency>
+            <!-- RabbitMQ -->
+            <dependency>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-starter-amqp</artifactId>
+                <version>3.2.0</version>
+            </dependency>
+            <!-- Dubbo -->
+            <dependency>
+                <groupId>org.apache.dubbo</groupId>
+                <artifactId>dubbo</artifactId>
+                <version>3.1.4</version>
+            </dependency>
+            <dependency>
+                <groupId>org.apache.dubbo</groupId>
+                <artifactId>dubbo-spring-boot-starter</artifactId>
+                <version>3.1.4</version>
             </dependency>
         </dependencies>
     </dependencyManagement>

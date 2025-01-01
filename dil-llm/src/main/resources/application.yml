@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: dil-llm
+  profiles:
+    active: dev

@@ -8,10 +8,10 @@
     </parent>
 
     <groupId>com.dil</groupId>
-    <artifactId>dil-dubbo</artifactId>
+    <artifactId>dil-llm</artifactId>
     <packaging>jar</packaging>
 
-    <name>dil-dubbo</name>
+    <name>dil-llm</name>
     <url>http://maven.apache.org</url>
 
     <properties>
@@ -26,21 +26,6 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <scope>test</scope>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.dubbo</groupId>
-            <artifactId>dubbo</artifactId>
-            <exclusions>
-                <exclusion>
-                    <artifactId>fastjson2</artifactId>
-                    <groupId>com.alibaba.fastjson2</groupId>
-                </exclusion>
-            </exclusions>
-        </dependency>
-        <dependency>
-            <groupId>org.apache.dubbo</groupId>
-            <artifactId>dubbo-spring-boot-starter</artifactId>
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>

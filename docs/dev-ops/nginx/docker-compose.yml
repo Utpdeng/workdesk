@@ -1,0 +1,18 @@
+# https://atomhub.openatom.cn/ 可信镜像中心
+version: '3.9'
+services:
+  nginx:
+    image: hub.atomgit.com/library/nginx:1.24-bullseye-perl
+    container_name: nginx
+    restart: always
+    ports:
+      - '443:443'
+      - '88:80'
+    volumes:
+      - ../nginx/logs:/var/log/nginx
+      - ../nginx/html:/usr/share/nginx/html
+      - ../nginx/conf/nginx.conf:/etc/nginx/nginx.conf
+      - ../nginx/conf/conf.d:/etc/nginx/conf.d
+      - ../nginx/ssl:/etc/nginx/ssl/
+    privileged: true
+
